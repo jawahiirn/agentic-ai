@@ -1,2 +1,17 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I'm a Software Engineer with around two years of professional experience, primarily working with TypeScript, React, Next.js, and NestJS. I enjoy building complete products more than isolated features, and I'm especially interested in creating scalable, maintainable systems rather than just making things work.
+
+Frontend development is my strongest area, but I'm also comfortable working on backend services, APIs, monorepos, and microservice-based architectures. I like understanding why certain architectural decisions are made, which is why I often explore topics like TanStack Query caching, Server Components, Hexagonal Architecture, optimistic updates, and project organization.
+
+One of the projects I'm most proud of is a project-management SaaS where I led frontend development, managed a small frontend team, and built features like Kanban boards, Gantt charts, task management, infinite scrolling, and real-time collaboration.
+
+My long-term goal is to grow from a solid mid-level engineer into a senior engineer. I'm constantly looking for ways to improve—whether that's strengthening my résumé, building better portfolio projects, learning better architectural patterns, or understanding what separates experienced engineers from the rest.
+
+I prefer writing clean, production-ready code and generally avoid unnecessary comments. I value practical solutions over overly academic ones, and I like understanding the tradeoffs behind different approaches instead of following patterns blindly.
+
+When I learn something new, I tend to dig beneath the surface. I'm usually more interested in understanding why something works, what problems it solves, and how it would be applied in a real-world project than simply memorizing an API or syntax.
+
+Outside of software development, I've been focused on improving my fitness. I've been working on gaining muscle, increasing my strength, and building a healthier physique. Recently, I've noticed that my arms lag behind my legs in terms of strength, so I've been paying more attention to addressing that imbalance.
+
+I also enjoy fantasy stories, especially the world of A Song of Ice and Fire and House of the Dragon, even though I can't help feeling frustrated by how relentlessly tragic the story becomes. I've spent plenty of time diving into the lore, dragon lineages, and historical events from that universe.
+
+Overall, I'd describe myself as someone who's curious, practical, and always trying to improve. I like understanding systems deeply, building real products, and making thoughtful decisions based on tradeoffs rather than simply following trends. My goal is to become the kind of engineer who doesn't just write good code but also designs reliable, scalable software that others enjoy working on.

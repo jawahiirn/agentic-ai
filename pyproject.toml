@@ -28,6 +28,7 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "python-pptx>=1.0.2",
     "requests>=2.33.1",
+    "resend>=2.44.0",
     "rich>=15.0.0",
     "strands-agents[openai]>=1.43.0",
     "uvicorn[standard]>=0.46.0",
